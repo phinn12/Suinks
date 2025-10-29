@@ -138,10 +138,6 @@ Note: The site-builder CLI looks for `sites-config.yaml` in the current director
 - `update_link`: Update an existing link
 - `remove_link`: Remove a link from your profile
 
-### View Functions
-
-- `get_profile_id_by_name`: Get profile object ID by name
-- `name_exists`: Check if a profile name is already taken
 
 ## 🔐 Security
 
@@ -152,14 +148,11 @@ Note: The site-builder CLI looks for `sites-config.yaml` in the current director
 
 ## 🌐 Links
 
-- **Live Demo**: [Coming Soon]
+- **Live Demo**: [https://suinks.trwal.app/]
 - **Sui Explorer**: [suiscan.xyz/testnet](https://suiscan.xyz/testnet)
 - **Walrus Explorer**: [walruscan.com/testnet](https://walruscan.com/testnet)
 - **Documentation**: [See DEPLOYMENT.md](./DEPLOYMENT.md)
 
-## 📹 Demo Video
-
-[Link to 3-5 minute demo video]
 
 ## 🤝 Contributing
 
@@ -171,15 +164,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Built for [Hackathon Name]
+- Built for [Sui Hackathon]
 - Powered by [Sui](https://sui.io/) and [Walrus](https://walrus.xyz/)
 - Inspired by [Flatland](https://github.com/MystenLabs/example-walrus-sites/tree/main/flatland)
 
 ## 📞 Contact
 
-- **Team**: [Your Team Name]
-- **Email**: [your@email.com]
-- **Twitter**: [@yourhandle]
+- **Team**: [SUInks]
+- **Email**: [phinn121@gmail.com]
 
 ---
 
