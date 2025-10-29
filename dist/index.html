@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SuiNK - Decentralized LinkTree</title>
+    <meta name="description" content="Create your decentralized link collection on Sui blockchain with Walrus storage" />
+    <script>
+      // SPA redirect handler for Walrus Sites
+      // Captures redirect parameter and restores the original path
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.pathname) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-BaRRpAeN.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Bj6DvK2U.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
+
+

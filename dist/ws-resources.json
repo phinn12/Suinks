@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "/": "/index.html",
+    "/*": "/404.html",
+    "/0x*": "/index.html",
+    "/profile": "/index.html",
+    "/view/*": "/index.html"
+  },
+  "site_name": "My Walrus Site",
+  "object_id": "0x27edef44b4f77eaaec4bda834cd62b1a7aafa9803438cbdfa16b992508c55855"
+}
